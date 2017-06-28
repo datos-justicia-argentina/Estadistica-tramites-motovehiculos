@@ -3,7 +3,7 @@ Estadística de Trámites de Motovehículos
 
 En este conjunto de datos se detalla la cantidad de motovehículos 0km inscriptos y motovehículos transferidos, discriminados por año, mes, provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor.
 
--   **Fecha de primera publicación:** 12/07/2016
+-   **Fecha de Primera Publicación:** 12/07/2016
 
 -   **Tags o Etiquetas:** inscripciones iniciales, transferencias, motovehículos, registración, 0km, trámites, registros seccionales
 
@@ -26,23 +26,23 @@ Recursos disponibles
 
 -   **Descripción del contenido:** cantidad de motos 0km inscriptos, por año, mes y provincia
 
--   **Formato:** CSV delimitado por coma, codificado en UTF-8
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **tipo\_vehiculo (string):** tipo de vehículo inscripto (motovehículo)
+-   **tipo_vehiculo (string):** tipo de vehículo inscripto (motovehículo)
 
--   **anio\_inscripcion\_inicial (int):** año de Inscripción inicial
+-   **anio_inscripcion_inicial (int):** año de Inscripción inicial
 
--   **mes\_inscripcion\_inicial (int):** mes de Inscripción inicial
+-   **mes_inscripcion_inicial (int):** mes de Inscripción inicial
 
--   **provincia\_inscripcion\_inicial (string):** provincia donde se radicó la Inscripción inicial
+-   **provincia_inscripcion_inicial (string):** provincia donde se radicó la Inscripción inicial
 
--   **letra\_provincia\_inscripcion\_inicial (string):** letra asociada a cada provincia
+-   **letra_provincia_inscripcion_inicial (string):** letra asociada a cada provincia
 
--   **cantidad\_inscripciones\_iniciales (int):** cantidad de vehículos inscriptos
+-   **cantidad_inscripciones_iniciales (int):** cantidad de vehículos inscriptos
 
 ### Estadística de transferencias de Motovehículos
 
@@ -52,23 +52,21 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-<!-- -->
-
 -   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **tipo\_vehiculo (string):** tipo de vehículo transferido (motovehículo)
+-   **tipo_vehiculo (string):** tipo de vehículo transferido (motovehículo)
 
--   **anio\_transferencia (int):** año de transferencia
+-   **anio_transferencia (int):** año de transferencia
 
--   **mes\_transferencia (int):** mes de transferencia
+-   **mes_transferencia (int):** mes de transferencia
 
--   **provincia\_transferencia (string):** provincia donde se efectuó la transferencia
+-   **provincia_transferencia (string):** provincia donde se efectuó la transferencia
 
--   **letra\_provincia\_transferencia (string):** letra asociada a cada provincia
+-   **letra_provincia_transferencia (string):** letra asociada a cada provincia
 
--   **cantidad\_transferencias (int):** cantidad de vehículos transferidos
+-   **cantidad_transferencias (int):** cantidad de vehículos transferidos
 
 ### Notas
 
