@@ -20,9 +20,9 @@ En este conjunto de datos se detalla la cantidad de motovehículos 0km inscripto
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Motovehículos
+### Estadística de Inscripciones Iniciales de Motovehículos AAAA-MM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-motos.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-motos AAAA-MM.csv
 
 -   **Descripción del contenido:** cantidad de motos 0km inscriptos, por año, mes y provincia
 
@@ -44,9 +44,9 @@ Recursos disponibles
 
 -   **cantidad_inscripciones_iniciales (int):** cantidad de vehículos inscriptos
 
-### Estadística de transferencias de Motovehículos
+### Estadística de transferencias de Motovehículos AAAA-MM
 
--   **Nombre del archivo:** estadistica-transferencias-motos.csv
+-   **Nombre del archivo:** estadistica-transferencias-motos AAAA-MM.csv
 
 -   **Descripción del contenido:** cantidad de motos transferidos, por año, mes y provincia
 
