@@ -73,6 +73,22 @@ Recursos disponibles
 
 -   **cantidad_transferencias (int):** cantidad de vehículos transferidos
 
+### Estadística de inscripciones iniciales de motovehículos - AAAA
+
+- **Nombre:** estadistica-inscripciones-iniciales-motovehiculos-AAAA.zip
+
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+- **Formato:** ZIP
+
+### Estadística de transferencias de motovehículos - AAAA
+
+- **Nombre:** estadistica-transferencias-motovehiculos-AAAA.zip
+
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+- **Formato:** ZIP
+
 ### Notas
 
 La actividad registral de los motovehículos está regulada por el Régimen Jurídico del Automotor ([*Digesto Jurídico del Automotor*](http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/rja.pdf)) y el Reglamento Interno de Normas Orgánico - Funcionales y Disposiciones Modificatorias ([*Reglamento Interno de Normas Orgánico-Funcionales*](http://www.dnrpa.gov.ar/portal_dnrpa/regimen_juridico/informacion/urinof.htm)).
