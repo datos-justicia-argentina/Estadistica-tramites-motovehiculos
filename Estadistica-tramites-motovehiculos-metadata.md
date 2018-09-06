@@ -75,6 +75,8 @@ Recursos disponibles
 
 -   **cantidad_transferencias (int):** cantidad de vehículos transferidos
 
+-	  **provincia_indec_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
+
 ### Estadística de inscripciones iniciales de motovehículos - AAAA
 
 - **Nombre:** estadistica-inscripciones-iniciales-motovehiculos-AAAA.zip
