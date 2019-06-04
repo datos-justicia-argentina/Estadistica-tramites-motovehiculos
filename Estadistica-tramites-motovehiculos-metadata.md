@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Motovehículos AAAA-MM
+### Estadística de Inscripciones Iniciales de Motovehículos - AAAAMM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-motos AAAA-MM.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-motos-AAAAMM.csv
 
 -   **Descripción del contenido:** se detalla la cantidad de motos 0km inscriptos, por año, mes y provincia
 
