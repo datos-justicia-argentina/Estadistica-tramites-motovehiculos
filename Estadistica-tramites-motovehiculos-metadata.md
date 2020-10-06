@@ -29,11 +29,11 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-inscripciones-iniciales-motos-AAAAMM.csv
 
--   **Descripción del contenido:** se detalla la cantidad de motos 0km inscriptos, por año, mes y provincia
+-   **Descripción del contenido:** estadística de inscripciones iniciales de motovehículos, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** inscripciones de motovehículos desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** inscripciones de motovehículos desde enero del año 2000 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -55,11 +55,11 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-transferencias-motos AAAA-MM.csv
 
--   **Descripción del contenido:** se detalla la cantidad de motos transferidos, por año, mes y provincia
+-   **Descripción del contenido:** estadística de transferencias de motovehículos, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** transferencias de motovehículos desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** transferencias de motovehículos desde enero del año 2000 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -77,21 +77,14 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de inscripciones iniciales de motovehículos - AAAA
+### Estadística de trámites de motovehículos - AAAA
 
-- **Nombre:** estadistica-inscripciones-iniciales-motovehiculos-AAAA.zip
+- **Nombre:** estadistica-tramites-motovehiculos-AAAA.zip
 
-- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
-
-- **Formato:** ZIP
-
-### Estadística de transferencias de motovehículos - AAAA
-
-- **Nombre:** estadistica-transferencias-motovehiculos-AAAA.zip
-
-- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos de estadísticas de inscripciones iniciales y transferencias de motovehículos  publicados en el portal datos.jus.gob.ar durante dicho año
 
 - **Formato:** ZIP
+
 
 ### Notas
 
