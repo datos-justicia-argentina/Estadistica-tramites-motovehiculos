@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Motovehículos - AAAAMM
+### Estadística de Inscripciones Iniciales de Motovehículos - AAAA
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-motos-AAAAMM.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-motos-AAAA.csv
 
 -   **Descripción del contenido:** estadística de inscripciones iniciales de motovehículos, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
 
@@ -51,9 +51,9 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de transferencias de Motovehículos - AAAA-MM
+### Estadística de transferencias de Motovehículos - AAAA
 
--   **Nombre del archivo:** estadistica-transferencias-motos AAAA-MM.csv
+-   **Nombre del archivo:** estadistica-transferencias-motos AAAA.csv
 
 -   **Descripción del contenido:** estadística de transferencias de motovehículos, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
 
