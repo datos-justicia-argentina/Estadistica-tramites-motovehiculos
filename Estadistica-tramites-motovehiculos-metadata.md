@@ -1,4 +1,4 @@
-Estadística de Trámites de Motovehículos
+Estadística de trámites de motovehículos
 ========================================
 
 En este conjunto de datos se detalla la cantidad de motovehículos 0km inscriptos y motovehículos transferidos, discriminados por año, mes, provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Se consideran motovehículos: ciclomotores, motocicletas, motocarro (motocargas y motofurgones), motonetas, triciclos y cuatriciclos con motor.
@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Motovehículos - AAAAMM
+### Estadística de inscripciones iniciales de motovehículos - AAAAMM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-motos-AAAA.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-motovehiculos-AAAA.csv
 
 -   **Descripción del contenido:** estadística de inscripciones iniciales de motovehículos, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
 
@@ -51,9 +51,9 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de transferencias de Motovehículos - AAAAMM
+### Estadística de transferencias de motovehículos - AAAAMM
 
--   **Nombre del archivo:** estadistica-transferencias-motos AAAA.csv
+-   **Nombre del archivo:** estadistica-transferencias-motovehiculos-AAAA.csv
 
 -   **Descripción del contenido:** estadística de transferencias de motovehículos, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
 
