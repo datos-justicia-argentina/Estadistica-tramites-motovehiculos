@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de Inscripciones Iniciales de Motovehículos - AAAA
+### Estadística de Inscripciones Iniciales de Motovehículos - AAAAMM
 
 -   **Nombre del archivo:** estadistica-inscripciones-iniciales-motos-AAAA.csv
 
@@ -51,7 +51,7 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de transferencias de Motovehículos - AAAA
+### Estadística de transferencias de Motovehículos - AAAAMM
 
 -   **Nombre del archivo:** estadistica-transferencias-motos AAAA.csv
 
