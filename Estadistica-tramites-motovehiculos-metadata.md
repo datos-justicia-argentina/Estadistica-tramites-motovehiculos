@@ -81,7 +81,7 @@ Recursos disponibles
 
 - **Nombre:** estadistica-tramites-motovehiculos.zip
 
-- **Descripción del contenido:** archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de motovehículos desde enero del año 2000 hasta la fecha
+- **Descripción del contenido:** archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de motovehículos desde enero del año 2000 hasta la fecha.
 
 - **Formato:** ZIP
 
