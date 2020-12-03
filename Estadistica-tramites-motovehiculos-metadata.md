@@ -25,11 +25,11 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de inscripciones iniciales de motovehículos - AAAAMM
+### Estadística de inscripciones iniciales de motovehículos - AAAAMM - AAAAMM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-motovehiculos-AAAA.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-motovehiculos-AAAA-MM-AAAA-MM.csv
 
--   **Descripción del contenido:** estadística de inscripciones iniciales de motovehículos, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
+-   **Descripción del contenido:** estadística de inscripciones iniciales de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -51,11 +51,11 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de transferencias de motovehículos - AAAAMM
+### Estadística de transferencias de motovehículos - AAAAMM - AAAAMM
 
--   **Nombre del archivo:** estadistica-transferencias-motovehiculos-AAAA.csv
+-   **Nombre del archivo:** estadistica-transferencias-motovehiculos-AAAA-MM-AAAA-MM.csv
 
--   **Descripción del contenido:** estadística de transferencias de motovehículos, por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite. Contiene datos de trámites desde enero de 2000
+-   **Descripción del contenido:** estadística de transferencias de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -77,11 +77,11 @@ Recursos disponibles
 
 -   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
 
-### Estadística de trámites de motovehículos - AAAA
+### Estadística de trámites de motovehículos
 
-- **Nombre:** estadistica-tramites-motovehiculos-AAAA.zip
+- **Nombre:** estadistica-tramites-motovehiculos.zip
 
-- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos de estadísticas de inscripciones iniciales y transferencias de motovehículos  publicados en el portal datos.jus.gob.ar durante dicho año
+- **Descripción del contenido:** archivo comprimido que contiene las estadísticas de inscripciones iniciales y transferencias de motovehículos desde enero del año 2000 hasta la fecha
 
 - **Formato:** ZIP
 
