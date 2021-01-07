@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de inscripciones iniciales de motovehículos - AAAAMM - AAAAMM
+### Estadística de inscripciones iniciales de motovehículos - 200701 - AAAAMM
 
--   **Nombre del archivo:** estadistica-inscripciones-iniciales-motovehiculos-AAAA-MM-AAAA-MM.csv
+-   **Nombre del archivo:** estadistica-inscripciones-iniciales-motovehiculos-2007-01-AAAA-MM.csv
 
 -   **Descripción del contenido:** estadística de inscripciones iniciales de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
 
@@ -49,11 +49,11 @@ Recursos disponibles
 
 -   **cantidad_inscripciones_iniciales (int):** cantidad de vehículos inscriptos
 
--   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
+-   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
 
-### Estadística de transferencias de motovehículos - AAAAMM - AAAAMM
+### Estadística de transferencias de motovehículos - 200701 - AAAAMM
 
--   **Nombre del archivo:** estadistica-transferencias-motovehiculos-AAAA-MM-AAAA-MM.csv
+-   **Nombre del archivo:** estadistica-transferencias-motovehiculos-2007-01-AAAA-MM.csv
 
 -   **Descripción del contenido:** estadística de transferencias de motovehículos por año, mes y provincia a la que pertenece el registro seccional en el cual se inscribió el trámite.
 
@@ -75,7 +75,7 @@ Recursos disponibles
 
 -   **cantidad_transferencias (int):** cantidad de vehículos transferidos
 
--   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC (hasta 05/2019 nombre campo provincia_indec_id)
+-   **provincia_id (date):** código de provincia en la cual se inscribió el trámite según la codificación de INDEC
 
 ### Estadística de trámites de motovehículos
 
